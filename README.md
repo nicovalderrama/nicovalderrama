@@ -1,5 +1,7 @@
 <h1 align="center">Hola a todos👋, Soy Nicolas👨🏻‍💻</h1>
 <h3 align="center">Estudiante de programador fullstack de Argentina</h3>
+![giphy](https://user-images.githubusercontent.com/92765642/198395319-7da14d0d-b758-437f-9a1b-c4cea650646d.gif)
+
 
 - 🌱 Actualmente estudiando **React,Python,Tailwind**
 
