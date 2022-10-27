@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h3 align="center">A student of fullstack developer from Argentina</h3>
+<h1 align="center">Hola a todos👋, Soy Nicolas👨🏻‍💻</h1>
+<h3 align="center">Estudiante de programador fullstack de Argentina</h3>
 
-- 🌱 I’m currently learning **React,Python,Tailwind**
+- 🌱 Actualmente estudiando **React,Python,Tailwind**
 
-- 💬 Ask me about **Javascript,NodeJs**
+- 💬 Consultame sobre **Javascript,NodeJs**
 
-- 📫 How to reach me **nicovalderrama2002@gmail.com**
+- 📫 Como comunicarte conmigo **nicovalderrama2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nicovalderrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicovalderrama" height="30" width="40" /></a>
+<a href="https://instagram.com/_nicovalderrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nicovalderrama" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
