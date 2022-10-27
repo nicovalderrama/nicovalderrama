@@ -1,8 +1,25 @@
 <h1 align="center">Hola a todos👋, Soy Nicolas👨🏻‍💻</h1>
-<h3 align="center">Estudiante de programador fullstack de Argentina</h3>
+<h3 align="center">Estudiante de programador fullstack</h3>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/92765642/198395940-0cb1a17d-d699-4468-98a3-44ff56b44601.gif" width="300"/>
 </div>
+
+- 👨🏻‍ Un poco sobre mi: **Soy de Catamarca, Argentina. Tengo 20 años, estoy cursando la carrera de técnico superior en desarrollo web y aplicaciones moviles y tambien estudio por mi cuenta en diferentes plataformas**
+
+- 📖 Cursos: 
+1. **Bootcamp NodeJS de Digitalers/Telecom:**
+cursada: abril-2022 hasta octubre-2022
+contenido: HTML5 y CSS, Maquetacion web, Javascript, ECMAScript, SPA, REST, AJAX, Backend con NodeJS, Servidores de
+API Restful Json, MongoDB, Mongoose, WebSockets
+
+2. **NodeJs de cero a experto de Fernando Herrera**
+contenido: Crear backend con NodeJS, Crear servicios REST, Subir y administrar archivos en el servidor, Json web tokens, Despliegues en Heroku, Despliegues en Github y Git, Crear aplicaciones usando sockets, Aplicaciones de consola
+
+3. **Javascript Moderno de Juan Pablo De la torre Valdez**
+contenido: Prototypes, Delegation, Classes, Ajax, Promises, Generadores, Orientado a Objetos, Fetch API, Async Await, Async JS, Objetos, así como consumir REST APIs, APIs de JavaScript nátivas
+
+4. **Diseño Web Responsivo de FreeCodeCamp**
+contenido: HTML5, CSS, Diseño visual aplicado, Accesibilidad aplicada, Principios de diseño web responsivo, CSS flexbox y grid
 
 - 🌱 Actualmente estudiando **React,Python,Tailwind**
 
