@@ -1,5 +1,6 @@
 <h1 align="center">Hola a todos👋, Soy Nicolas👨🏻‍💻</h1>
 <h3 align="center">Estudiante de programador fullstack de Argentina</h3>
+<iframe src="https://giphy.com/embed/ign0M5kv7OLgJR9hk5" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fifa-ign0M5kv7OLgJR9hk5">via GIPHY</a></p>
 
 - 🌱 Actualmente estudiando **React,Python,Tailwind**
 
