@@ -1,7 +1,7 @@
 <h1 align="center">Hola a todos👋, Soy Nicolas👨🏻‍💻</h1>
 <h3 align="center">Estudiante de programador fullstack de Argentina</h3>
-![giphy](https://user-images.githubusercontent.com/92765642/198395319-7da14d0d-b758-437f-9a1b-c4cea650646d.gif)
-
+![GIF LEO MESSI ARGENTINA](https://user-images.githubusercontent.com/92765642/198395940-0cb1a17d-d699-4468-98a3-44ff56b44601.gif)
+<img href="https://user-images.githubusercontent.com/92765642/198395940-0cb1a17d-d699-4468-98a3-44ff56b44601.gif" alt="MESSI ARGENTINA">
 
 - 🌱 Actualmente estudiando **React,Python,Tailwind**
 
